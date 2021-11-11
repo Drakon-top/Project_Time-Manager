@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>image/plus.png</file>
+    <file>image/add.png</file>
+    <file>image/disable.png</file>
+    <file>image/enable.png</file>
+    <file>image/chel.png</file>
+    <file>image/deal.png</file>
+    <file>image/graf.png</file>
+    <file>image/setting.png</file>
+    <file>image/construction_project_plan_building_architect_design_develop-52_icon-icons.com_60223.png</file>
+    <file>image/home_house_icon-icons.com_49851.png</file>
+    <file>image/menu-button_icon-icons.com_72989.png</file>
+    <file>image/button_blank_blue_14984.png</file>
+    <file>image/button_blank_gray_14985.png</file>
+    <file>image/button_blank_green_14986.png</file>
+    <file>image/button_blank_yellow_14988.png</file>
+    <file>image/button_blank_red_14987.png</file>
+  </qresource>
+</RCC>
